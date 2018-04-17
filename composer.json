@@ -1,0 +1,17 @@
+{
+    "name": "cydrickn/phinx-bundle",
+    "description": "Phinx Bundle for Symfony",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cydrick Nonog",
+            "email": "cydrick.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/config": "^4.0",
+        "symfony/dependency-injection": "^4.0",
+        "symfony/console": "^4.0",
+        "robmorgan/phinx": "^0.9.2"
+    }
+}
